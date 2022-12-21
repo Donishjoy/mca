@@ -1,1 +1,1 @@
-# mca
+This is a demo repository.
